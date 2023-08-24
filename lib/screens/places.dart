@@ -41,7 +41,7 @@ class _PlacesScreenState extends ConsumerState<PlacesScreen> {
             ),
           );
         },
-        backgroundColor: Color.fromARGB(255, 197, 77, 77),
+        backgroundColor: const Color.fromARGB(255, 197, 77, 77),
         child: const Icon(Icons.add),
       ),
       body: Padding(
