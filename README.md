@@ -1,16 +1,12 @@
-# favorite_places
+# Favorite Place App using Flutter, Dart & Google Maps API
 
-A new Flutter project.
+* Locate users favorite places using Google Maps API.
 
-## Getting Started
+## Screenshots
+![q1](https://github.com/jirolds/favorite_places_app/assets/132939427/03b6aa8b-81e7-430c-81ae-b9f512971e4a)
+![q2](https://github.com/jirolds/favorite_places_app/assets/132939427/72722f7f-7770-4e2c-90b6-22f61c44f78e)
+![q3](https://github.com/jirolds/favorite_places_app/assets/132939427/67c81159-7c1d-43ef-afba-549601034b2e)
+![q4](https://github.com/jirolds/favorite_places_app/assets/132939427/3c1c6033-c77b-4cbf-aa4d-82df25653203)
+![q5](https://github.com/jirolds/favorite_places_app/assets/132939427/46c449b2-eb47-4d04-9183-ed50ec6f32cd)
+![q6](https://github.com/jirolds/favorite_places_app/assets/132939427/30fbe614-7f1a-4b03-9ce1-3f9dbba79f39)
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
